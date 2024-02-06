@@ -48,7 +48,7 @@ video {
     max-width: 90rem;
     margin: 0 auto;
     background-color: var(--clr--Yellow);
-    padding: 9.6em 1.6em 9.8em 1.5em;
+    padding: 9.6em 1.5em 9.8em 1.5em;
 }
 
 .main {
@@ -149,7 +149,7 @@ p.text {
         height: 100vh;
         display: grid;
         place-items: center;
-        padding: 13.6em 2em 21.5em 1.5em;
+        padding: 13.6em 1.5em 21.5em 1.5em;
     }
 
     .main {
